@@ -1,0 +1,24 @@
+body {
+    background-color: aqua;
+}
+
+#gamecontainer {
+    margin-top: 5vmin;
+    text-align: center;
+}
+
+
+
+#gameBoard {
+   border-top: 2px solid;
+   border-bottom: 2px solid;
+}
+
+#scoreText {
+    font-size: 100px;
+}
+
+#resetBtn {
+    font-size: 30px;
+    cursor: pointer;
+}
