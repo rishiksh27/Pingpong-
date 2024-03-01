@@ -80,7 +80,7 @@ function nextTick(){
         drawBall(ballX, ballY);
         checkCollision();
         nextTick();
-    }, 100)
+    }, 10)
 };
 
 function clearBoard(){
